@@ -1,1 +1,33 @@
-ff
+"A Tour through the Visualization Zoo" 
+
+Subrayar las palabras y terminología que les resulte novedosa, y con esas palabras construir un archivo de texto plano. 
+
+Link: https://queue.acm.org/detail.cfm?id=1805128
+
+
+Time-Series Data
+Stacked Graphs
+Small Múltiples
+Horizon Graphs
+
+Statistical Distributions
+Q-Q Plots
+Parallel Coordinates
+
+Maps 
+Flow Maps 
+Graduated Symbol Maps
+Cartograms
+
+Hierarchies
+dendrogram
+indented tree
+Adjacency Diagrams
+sunburst layout
+circle-packing layout
+
+Networks
+Force-directed Layouts
+Arc Diagrams
+Matrix Views
+
