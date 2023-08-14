@@ -5,28 +5,28 @@ Subrayar las palabras y terminología que les resulte novedosa, y con esas palab
 Link: https://queue.acm.org/detail.cfm?id=1805128
 
 
-Time-Series Data
+--> Time-Series Data
 Stacked Graphs
 Small Múltiples
 Horizon Graphs
 
-Statistical Distributions
+--> Statistical Distributions
 Q-Q Plots
 Parallel Coordinates
 
-Maps 
+--> Maps 
 Flow Maps 
 Graduated Symbol Maps
 Cartograms
 
-Hierarchies
+--> Hierarchies
 dendrogram
 indented tree
 Adjacency Diagrams
 sunburst layout
 circle-packing layout
 
-Networks
+--> Networks
 Force-directed Layouts
 Arc Diagrams
 Matrix Views
